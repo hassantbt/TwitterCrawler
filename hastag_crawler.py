@@ -15,7 +15,7 @@ hashtah_=sys.argv[1]
 
 
 ##########>>> SET TWITTER API KEYS PARAMETERS
-ACCESS_TOKEN = 'xxxxxxxxxxxxx'
+ACCESS_TOKEN = 'xxxxxxxxxxxxxx'
 ACCESS_SECRET = 'xxxxxxxxxxxxx'
 CONSUMER_KEY = 'xxxxxxxxxxxxx'
 CONSUMER_SECRET = 'xxxxxxxxxxxxx'
